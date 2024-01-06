@@ -1,7 +1,7 @@
 provider "aws" {
   region = "ap-south-1"
-  access_key = "AKIA3EWVLRU6JP3TVTOF"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 resource "aws_instance" "terraform-instance" {
